@@ -5,7 +5,7 @@ st.set_page_config(page_title="Faraz Ahmed's CV")
 
 # Introduction section
 st.title("**Faraz Ahmed**")
-st.subheader("**Data Scientist**")
+st.subheader("**Desktop Developer**")
 st.write("Driven and analytical data scientist with 5+ years of experience in building and deploying machine learning models. Passionate about using data to solve real-world problems.")
 
 # Experience section
