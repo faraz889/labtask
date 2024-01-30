@@ -41,7 +41,7 @@ st.write("**Bachelor of Science in Computer Science**, Massachusetts Institute o
 
 # Contact section
 st.header("Contact")
-st.write("Email: john.doe@example.com")
+st.write("Email:ahmedfaraz5588@mail.com")
 st.write("LinkedIn: https://www.linkedin.com/in/johndoe/")
 
 # Interactive elements (optional)
