@@ -1,10 +1,10 @@
 import streamlit as st
 
 # Set page title and layout
-st.set_page_config(page_title="John Doe's CV")
+st.set_page_config(page_title="Faraz Ahmed's CV")
 
 # Introduction section
-st.title("**John Doe**")
+st.title("**Faraz Ahmed**")
 st.subheader("**Data Scientist**")
 st.write("Driven and analytical data scientist with 5+ years of experience in building and deploying machine learning models. Passionate about using data to solve real-world problems.")
 
